@@ -14,7 +14,7 @@ func main() {
 			"MiniAppOne": {
 				"name":    "MiniAppOne",
 				"code":    "one",
-				"version": "1.0.25",
+				"version": "1.0.26",
 			},
 			"MiniAppTwo": {
 				"name":    "MiniAppTwo",
